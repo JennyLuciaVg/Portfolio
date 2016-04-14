@@ -1,0 +1,95 @@
+/*About*/
+.navbar-custom {
+    margin-bottom: 0;
+}
+.bckg-pink{
+       background-color: #f2755A;
+ 
+}
+.bckg-red{
+    background-color: #F05F40;
+}
+.txt-w{
+    color:white;
+}
+.abt-hr{
+        border: 2px solid white;
+} /*holi*/
+/*SERVS SECTION*/
+
+
+/*COMIENZO --> Mis Trabajos - Footer -> Reina*/
+.mistrabajos-section img {
+    width: 100%;
+}
+.margin-15 {
+    margin-right: -15px!important;
+    margin-left: -15px!important;
+}
+.padding-0 div {
+    padding: 0%!important;
+}
+.github-section {
+    background-color: #222222;
+}
+.github-section h3 {
+    color: white;
+    text-align: center;
+    margin-top: 3%;
+    margin-top: 2%;
+}
+.button-github {
+    background-color: white;
+    border-radius: 20px;
+    color: #222222;
+    padding: 1%;
+    padding-right: 2%;
+    padding-left: 2%;
+    text-align: center;
+    font-weight: 700;
+    margin: auto;
+    margin-bottom: 2.5%;
+    margin-top: 1%;
+    font-size: 11px;
+    border-style:none;
+}
+@media (max-width: 320px) {
+    .button-github {
+      padding: 4%;
+      padding-right: 6%;
+      padding-left: 6%;
+    }
+}
+footer h5 {
+    color: #222222;
+    text-align: center;
+}
+footer h3,p {
+    text-align: center;
+}
+footer p {
+    font-size: 15px;
+    margin-bottom: 2%;
+}
+footer h3 {
+    margin-top: 5%;
+}
+.phone i {
+    
+    font-size: 37px;
+}
+.email i {
+    
+    font-size: 37px;
+}
+.phone h5 {
+
+}
+.email h5 {
+     
+    padding-bottom: 15%;
+}
+
+
+
+/*FINAL --> Mis Trabajos - Footer -> Reina*/
